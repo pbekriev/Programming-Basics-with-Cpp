@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01. Hello SoftUni", "01. He
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02. Nums 1 to 10", "02. Nums 1 to 10\02. Nums 1 to 10.vcxproj", "{08407043-4289-400E-AA0B-70F9A03A77E2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03. Rectangle Area", "03. Rectangle Area\03. Rectangle Area.vcxproj", "{0F5639EF-93DC-4F35-B04D-921F19C02F11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{08407043-4289-400E-AA0B-70F9A03A77E2}.Release|x64.Build.0 = Release|x64
 		{08407043-4289-400E-AA0B-70F9A03A77E2}.Release|x86.ActiveCfg = Release|Win32
 		{08407043-4289-400E-AA0B-70F9A03A77E2}.Release|x86.Build.0 = Release|Win32
+		{0F5639EF-93DC-4F35-B04D-921F19C02F11}.Debug|x64.ActiveCfg = Debug|x64
+		{0F5639EF-93DC-4F35-B04D-921F19C02F11}.Debug|x64.Build.0 = Debug|x64
+		{0F5639EF-93DC-4F35-B04D-921F19C02F11}.Debug|x86.ActiveCfg = Debug|Win32
+		{0F5639EF-93DC-4F35-B04D-921F19C02F11}.Debug|x86.Build.0 = Debug|Win32
+		{0F5639EF-93DC-4F35-B04D-921F19C02F11}.Release|x64.ActiveCfg = Release|x64
+		{0F5639EF-93DC-4F35-B04D-921F19C02F11}.Release|x64.Build.0 = Release|x64
+		{0F5639EF-93DC-4F35-B04D-921F19C02F11}.Release|x86.ActiveCfg = Release|Win32
+		{0F5639EF-93DC-4F35-B04D-921F19C02F11}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
