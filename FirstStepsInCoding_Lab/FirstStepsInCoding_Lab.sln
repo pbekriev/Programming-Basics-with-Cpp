@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07. Projects Creation", "07
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08. Pet Shop", "08. Pet Shop\08. Pet Shop.vcxproj", "{0AB4A095-D7BD-4ED3-90C1-08DAB65F405D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09. Yard Greening", "09. Yard Greening\09. Yard Greening.vcxproj", "{17830287-B089-4416-B21E-93BED79559A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{0AB4A095-D7BD-4ED3-90C1-08DAB65F405D}.Release|x64.Build.0 = Release|x64
 		{0AB4A095-D7BD-4ED3-90C1-08DAB65F405D}.Release|x86.ActiveCfg = Release|Win32
 		{0AB4A095-D7BD-4ED3-90C1-08DAB65F405D}.Release|x86.Build.0 = Release|Win32
+		{17830287-B089-4416-B21E-93BED79559A3}.Debug|x64.ActiveCfg = Debug|x64
+		{17830287-B089-4416-B21E-93BED79559A3}.Debug|x64.Build.0 = Debug|x64
+		{17830287-B089-4416-B21E-93BED79559A3}.Debug|x86.ActiveCfg = Debug|Win32
+		{17830287-B089-4416-B21E-93BED79559A3}.Debug|x86.Build.0 = Debug|Win32
+		{17830287-B089-4416-B21E-93BED79559A3}.Release|x64.ActiveCfg = Release|x64
+		{17830287-B089-4416-B21E-93BED79559A3}.Release|x64.Build.0 = Release|x64
+		{17830287-B089-4416-B21E-93BED79559A3}.Release|x86.ActiveCfg = Release|Win32
+		{17830287-B089-4416-B21E-93BED79559A3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
