@@ -1,0 +1,2 @@
+﻿  03. Deposit Calculator.cpp
+D:\Visual Studio  C++\Programming-Basics-with-Cpp\First Steps In Coding - Exercise\03. Deposit Calculator\03. Deposit Calculator.cpp(11): error C4700: uninitialized local variable 'yearPercent' used

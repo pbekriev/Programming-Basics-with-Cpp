@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01. USD to BGN", "01. USD t
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02. Radians to Degrees", "02. Radians to Degrees\02. Radians to Degrees.vcxproj", "{CAD662DD-5E8E-4EE8-A6E7-8B7BE61F3098}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03. Deposit Calculator", "03. Deposit Calculator\03. Deposit Calculator.vcxproj", "{7613CEE9-6608-4465-BDE4-2B22E2005DC7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{CAD662DD-5E8E-4EE8-A6E7-8B7BE61F3098}.Release|x64.Build.0 = Release|x64
 		{CAD662DD-5E8E-4EE8-A6E7-8B7BE61F3098}.Release|x86.ActiveCfg = Release|Win32
 		{CAD662DD-5E8E-4EE8-A6E7-8B7BE61F3098}.Release|x86.Build.0 = Release|Win32
+		{7613CEE9-6608-4465-BDE4-2B22E2005DC7}.Debug|x64.ActiveCfg = Debug|x64
+		{7613CEE9-6608-4465-BDE4-2B22E2005DC7}.Debug|x64.Build.0 = Debug|x64
+		{7613CEE9-6608-4465-BDE4-2B22E2005DC7}.Debug|x86.ActiveCfg = Debug|Win32
+		{7613CEE9-6608-4465-BDE4-2B22E2005DC7}.Debug|x86.Build.0 = Debug|Win32
+		{7613CEE9-6608-4465-BDE4-2B22E2005DC7}.Release|x64.ActiveCfg = Release|x64
+		{7613CEE9-6608-4465-BDE4-2B22E2005DC7}.Release|x64.Build.0 = Release|x64
+		{7613CEE9-6608-4465-BDE4-2B22E2005DC7}.Release|x86.ActiveCfg = Release|Win32
+		{7613CEE9-6608-4465-BDE4-2B22E2005DC7}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
