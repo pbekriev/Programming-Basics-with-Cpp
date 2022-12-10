@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03. Deposit Calculator", "0
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04. Vacation Books List", "04. Vacation Books List\04. Vacation Books List.vcxproj", "{80DFFECE-381A-4A51-8618-4AF1A8EC504D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05. Supplies for School", "05. Supplies for School\05. Supplies for School.vcxproj", "{1EF1294F-AB00-44B9-8D6C-B1A2990689DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{80DFFECE-381A-4A51-8618-4AF1A8EC504D}.Release|x64.Build.0 = Release|x64
 		{80DFFECE-381A-4A51-8618-4AF1A8EC504D}.Release|x86.ActiveCfg = Release|Win32
 		{80DFFECE-381A-4A51-8618-4AF1A8EC504D}.Release|x86.Build.0 = Release|Win32
+		{1EF1294F-AB00-44B9-8D6C-B1A2990689DD}.Debug|x64.ActiveCfg = Debug|x64
+		{1EF1294F-AB00-44B9-8D6C-B1A2990689DD}.Debug|x64.Build.0 = Debug|x64
+		{1EF1294F-AB00-44B9-8D6C-B1A2990689DD}.Debug|x86.ActiveCfg = Debug|Win32
+		{1EF1294F-AB00-44B9-8D6C-B1A2990689DD}.Debug|x86.Build.0 = Debug|Win32
+		{1EF1294F-AB00-44B9-8D6C-B1A2990689DD}.Release|x64.ActiveCfg = Release|x64
+		{1EF1294F-AB00-44B9-8D6C-B1A2990689DD}.Release|x64.Build.0 = Release|x64
+		{1EF1294F-AB00-44B9-8D6C-B1A2990689DD}.Release|x86.ActiveCfg = Release|Win32
+		{1EF1294F-AB00-44B9-8D6C-B1A2990689DD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
