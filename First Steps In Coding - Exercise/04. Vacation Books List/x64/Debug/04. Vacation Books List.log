@@ -1,0 +1,3 @@
+﻿  04. Vacation Books List.cpp
+D:\Microsoft Visual Studio\GitHub\Programming-Basics-with-Cpp\First Steps In Coding - Exercise\04. Vacation Books List\04. Vacation Books List.cpp(10): error C4700: uninitialized local variable 'sheetPerHour' used
+D:\Microsoft Visual Studio\GitHub\Programming-Basics-with-Cpp\First Steps In Coding - Exercise\04. Vacation Books List\04. Vacation Books List.cpp(10): error C4700: uninitialized local variable 'days' used
